@@ -13,6 +13,8 @@
 )]() 
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
+ 
+ ## Stats 📊
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauansiqq&show_icons=true&theme=radical)
  
