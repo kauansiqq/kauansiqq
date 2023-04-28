@@ -18,5 +18,5 @@
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauansiqq&show_icons=true&theme=radical)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansiqq&layout=compact)](https://github.com/kauansiqq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansiqq&layout=compact)](https://github.com/kauansiqq/github-readme-stats)
 
