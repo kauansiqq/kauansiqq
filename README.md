@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kauan Siqueira 👋
 
-<h8> Olá, me chamo Kauan, tenho uma paixão eterna por códigos e tecnologia, atualmente sou estudante de Front-End com o objetivo de ingressar futuramente no mercado de trabalho!
+<h6> Olá, me chamo Kauan, tenho uma paixão eterna por códigos e tecnologia, atualmente sou estudante de Front-End com o objetivo de ingressar futuramente no mercado de trabalho!
 
 ## Teck Stack 👨‍💻
 
